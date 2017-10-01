@@ -1,6 +1,9 @@
 Test content for exercise purposes.
 Do not mind this text.
 
+
+Updating with Bash…
+
 Update with Tortoise…
 
 Some more changes... Tortoise
